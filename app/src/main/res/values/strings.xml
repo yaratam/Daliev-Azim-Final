@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Daliev-Azim-Final</string>
+    <string name="_4_5">4.5</string>
+    <string name="name">Jollof Rice</string>
+    <string name="place">Suhani’s Stop, Kukatpally</string>
+    <string name="description">Description</string>
+    <string name="text">Our fried rice is made from the finest ingredients and veggies. single dish is made with fresh vegetables, rescued.</string>
+    <string name="rescued">Rescued</string>
+    <string name="vegan">Vegan</string>
+    <string name="time">30 min</string>
+    <string name="calorie">145 cal</string>
+    <string name="nutritional_value">Nutritional Value</string>
+    <string name="proteijn">Protein</string>
+    <string name="carbs">Carbohydrates</string>
+    <string name="sodium">Sodium</string>
+    <string name="Potassium">Potassium</string>
+    <string name="vitamins">Rich in Vitamin A, C and B3</string>
+    <string name="select_user">Select User -</string>
+    <string name="user_1">User 1</string>
+    <string name="additions">Additions</string>
+    <string name="jala">Jalapeno</string>
+    <string name="slide">slide</string>
+    <string name="_125">₹125</string>
+    <string name="go_to_activity_first">Go to activity First</string>
 </resources>

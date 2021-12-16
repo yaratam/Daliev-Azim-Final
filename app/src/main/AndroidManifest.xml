@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DalievAzimFinal">
         <activity
+            android:name=".activity_first"
+            android:exported="true" />
+        <activity
+            android:name=".activity_favored"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
